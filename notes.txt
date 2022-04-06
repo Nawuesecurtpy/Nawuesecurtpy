@@ -1,0 +1,6 @@
+SCOPES: contexto o ambito
+
+variables globales:a lo largo de todo el codigo.
+variables locales: dentro del scope.
+
+se puede hacer que las variables locales se utilicen de forma global.
